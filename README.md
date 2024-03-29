@@ -1,6 +1,6 @@
 # Welcome To MakoletTime. Life Will Never Be The Same Again.
 
-![image-20240330002932675](images/image-20240330002932675.png)
+![image-20240330012441723](images/image-20240330012441723.png)
 
 That was supposed to be a joke...
 

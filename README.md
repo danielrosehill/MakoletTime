@@ -55,7 +55,9 @@ data:
 
 ### Import The Images If You'd Like A Headstart
 
-You can find some 200x200px display images in /resources/images/makolettime
+You can find some 200x200px display images in this repo at:
+
+` /resources/images/makolettime`
 
 Copy the directory here in your HA instance:
 
@@ -65,7 +67,7 @@ To speed up the process of adding images to Home Assistant you can create a SMB 
 
 For example I can access this path from my desktop:
 
-sftp://myuser@10.0.0.1/homeassistant/www/images
+`sftp://myuser@10.0.0.1/homeassistant/www/images`
 
 ## Make Sure That Your Button Card Entity Values And Shopping List Items Correspond
 

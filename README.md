@@ -116,6 +116,50 @@ To update your list use a click to add view like this:
 
 When shopping you can use the view you prefer:
 
+## (Optional) - A List Reset View For Teething Problems
+
+If you'd like to give the system a try but then decide that you want to actually use the system (so you want to mark all your shopping list as not purchased) then you might want to add a view like this with buttons such as these:
+
+
+
+![image-20240330011022357](images/image-20240330011022357.png)
+
+
+
+Here's the YAML to mark all items as purchased with this click button:
+
+```yaml
+show_name: true
+show_icon: true
+type: button
+tap_action:
+  action: call-service
+  service: shopping_list.complete_all
+  target: {}
+entity: input_button.shopping_list_complete_all
+name: Mark all items purchased
+
+```
+
+And here's the button to remove all the items that are marked completed:
+
+```yaml
+show_name: true
+show_icon: true
+type: button
+tap_action:
+  action: call-service
+  service: shopping_list.incomplete_all
+  target: {}
+entity: input_button.shopping_list_mark_all_items_for_purchase_incomplete
+name: Remove all items from completed list
+
+```
+
+
+
+
+
 ## (Optional) - Add An NFC Tag To Your Fridge!!
 
 ![Inventory20240330_010302](images/Inventory20240330_010302.png)

@@ -180,13 +180,13 @@ Or you can configure a navigate rule with browsermod and the built-in NFC tag mo
 
 
 
-![Screenshot_20240331_153114_Home Assistant](images/Screenshot_20240331_153114_Home Assistant.jpg)
+![Screenshot_20240331_153114_Home Assistant](./images/Screenshot_20240331_153114_Home Assistant.jpg)
 
 ---
 
 
 
-![Screenshot_20240331_153125_Home Assistant](images/Screenshot_20240331_153125_Home Assistant.jpg)
+![Screenshot_20240331_153125_Home Assistant](./images/Screenshot_20240331_153125_Home Assistant.jpg)
 
 ------
 

@@ -1,6 +1,6 @@
 # Welcome To MakoletTime. Life Will Never Be The Same Again.
 
-![image-20240330012441723](images/image-20240330012441723.png)
+![](images/makolettime.png)
 
 That was supposed to be a joke...
 
@@ -174,6 +174,20 @@ http://homeassistant.local:8123/dashboard-groceries/grid-cards?edit=1
 
 Or you can configure a navigate rule with browsermod and the built-in NFC tag module.
 
+
+
+# Screenshots (Android, 1 Column View)
+
+
+
+![Screenshot_20240331_153114_Home Assistant](images/Screenshot_20240331_153114_Home Assistant.jpg)
+
 ---
+
+
+
+![Screenshot_20240331_153125_Home Assistant](images/Screenshot_20240331_153125_Home Assistant.jpg)
+
+------
 
 Improvements and updates coming soon!
